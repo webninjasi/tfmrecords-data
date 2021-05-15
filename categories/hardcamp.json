@@ -1,5 +1,6 @@
 {
   "title": "Hardcamp",
   "parent": "modules",
-  "icon": "https://res.cloudinary.com/wnc/image/upload/v1538059682/8DSp8pD.png"
+  "icon": "https://res.cloudinary.com/wnc/image/upload/v1538059682/8DSp8pD.png",
+  "alias": ["hc"]
 }
