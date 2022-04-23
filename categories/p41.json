@@ -1,5 +1,6 @@
 {
-  "title": "P41",
+  "title": "Vanilla Camp",
   "parent": "modules",
-  "icon": "https://res.cloudinary.com/wnc/image/upload/v1620242566/P41.png"
+  "icon": "https://res.cloudinary.com/wnc/image/upload/v1620242566/P41.png",
+  "alias": ["vanillacamp","vc"]
 }
