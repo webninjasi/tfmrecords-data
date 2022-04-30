@@ -1,0 +1,6 @@
+{
+  "title": "Custom Parkour",
+  "parent": "modules",
+  "icon": "https://res.cloudinary.com/wnc/image/upload/v1651337025/customparkour.png",
+  "note": "You can only submit your records in a records enabled <b>#parkour</b> room (e.g. <b>\"/room *#parkour0records YourName#0000\"</b>).<br>Use in-game <b>!submit</b> command to send your records to us.<br><small>P.S. You can use <b>!setcp 1</b> command to use the old checkpoints and <b>!setcp 2</b> command to use new checkpoints.</small>"
+}
